@@ -1,0 +1,12 @@
+# Personal / Portuguese working copies (kept locally, not part of the public repo)
+Dashboard_Consumo_Eletrico.html
+Guia_Relatorio_PowerBI.md
+powerconsumption_PowerBI_long.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Editor
+.vscode/
